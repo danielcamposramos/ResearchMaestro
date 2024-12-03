@@ -1,0 +1,10 @@
+
+# ResearchMathToolbox Instructions
+
+## Overview
+This module provides tools for symbolic and numerical computations to support advanced research workflows.
+
+### Key Functions
+1. Simplify symbolic expressions using SymPy.
+2. Perform matrix operations using NumPy.
+3. Designed to integrate seamlessly into the ResearchMaestro ecosystem.

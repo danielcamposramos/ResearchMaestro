@@ -1,0 +1,9 @@
+# ResearchMaestro Downloadable Files
+
+1. [ResearchMaestro_Module.py](sandbox:/mnt/data/ResearchMaestro_Ecosystem/Core/ResearchMaestro_Module.py)
+2. [Aaron_Centric_OpenAccess_Sources.txt](sandbox:/mnt/data/ResearchMaestro_Ecosystem/Modules/ResearchScrapper/Aaron_Centric_OpenAccess_Sources.txt)
+3. [ResearchScrapper_Module.py](sandbox:/mnt/data/ResearchMaestro_Ecosystem/Modules/ResearchScrapper/ResearchScrapper_Module.py)
+4. [ResearchFileMaster_Module.py](sandbox:/mnt/data/ResearchMaestro_Ecosystem/Modules/ResearchFileMaster/ResearchFileMaster_Module.py)
+5. [ResearchMathToolbox_Module.py](sandbox:/mnt/data/ResearchMaestro_Ecosystem/Modules/ResearchMathToolbox/ResearchMathToolbox_Module.py)
+6. [ResearchMathToolbox_Instructions.txt](sandbox:/mnt/data/ResearchMaestro_Ecosystem/Instructions/ResearchMathToolbox_Instructions.txt)
+7. [Aaron_Centric_ResearchMaestro_Log.txt](sandbox:/mnt/data/ResearchMaestro_Ecosystem/Logs/Aaron_Centric_ResearchMaestro_Log.txt)

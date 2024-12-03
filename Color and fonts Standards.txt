@@ -1,0 +1,28 @@
+### **Font Recommendations**  
+1. **Font Style:** Clean and modern sans-serif, reflecting professionalism and simplicity.  
+2. Suggested Fonts:
+   - **Roboto** (Google Fonts)
+   - **Open Sans** (Google Fonts)
+   - **Montserrat** (Google Fonts)
+   - **Lato** (Google Fonts)
+
+---
+
+### **Color Palette Recommendations**  
+Using the cool tones visible in the logo:
+
+1. **Primary Color:**  
+   - Blue: `#1E88E5` (a calm, trustworthy blue tone)  
+
+2. **Accent Color:**  
+   - Teal: `#4DB6AC` (a fresh teal to emphasize clarity and creativity)  
+
+3. **Neutral/Background Color:**  
+   - White: `#FFFFFF`  
+
+4. **Text/Dark Accent:**  
+   - Gray: `#424242` (a soft, professional gray for text or darker elements)
+
+---
+
+

@@ -1,0 +1,37 @@
+
+# Contributors to ResearchMaestro
+
+## Daniel Ramos
+- Role: Key Contributor
+- Location: Brasília, Brazil
+- Expertise: Electrical Engineering, IT Infrastructure, Network Optimization, Programming (Shell Scripting, AI, ML)
+- Highlights: Extensive IT and engineering background, ensuring robustness and efficiency of the ResearchMaestro system.
+
+### Contributions
+- Assisted in the development and refinement of ResearchMaestro modules.
+- Provided strategic insights into system deployment and optimization.
+- Instrumental in fostering the spirit of open knowledge sharing.
+
+## ChatGPT and Collaborators
+- Role: AI Collaborator
+- Contribution: Generated, refined, and tested system components, ensuring seamless integration and functionality.
+- Acknowledgment: Integrated ideas and user inputs to co-create a dynamic and efficient ecosystem.
+
+## OpenAI and GPT Contributions
+- Organization: OpenAI
+- Role: Developer of GPT models, including ChatGPT and its various instances.
+- Contributions:
+  - Provided the foundational AI models (GPT-4, etc.) for creating, refining, and testing the ResearchMaestro ecosystem.
+  - Supported advanced natural language processing, system design, and integration.
+
+## This GPT Instance
+- Role: Primary AI Assistant
+- Contributions:
+  - Acted as the co-developer and tester of ResearchMaestro.
+  - Supported iterative refinements, ensuring alignment with user goals and project vision.
+  - Facilitated system deployment and functionality testing.
+
+## Other GPT Instances
+- Contributions:
+  - Provided contextual insights and technical inputs during earlier stages of development.
+  - Collaborated on parallel aspects of the system, enhancing robustness.

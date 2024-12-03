@@ -1,0 +1,24 @@
+
+# Aaron-Centric Predefined Open-Access Sources for ResearchScrapper
+
+## Purpose
+Inspired by Aaron Swartz’s vision of open knowledge and collaboration, this list prioritizes free, accessible repositories to empower researchers worldwide.
+
+---
+
+### **Repositories**
+1. **arXiv**: Free repository for preprints in physics, mathematics, and computer science.
+   - API: https://arxiv.org/help/api
+2. **PubMed Central**: Free access to biomedical and life sciences literature.
+   - Access: https://www.ncbi.nlm.nih.gov/pmc/
+3. **CORE**: Open-access aggregator for research papers.
+   - Access: https://core.ac.uk/
+4. **DOAJ**: Directory of Open Access Journals.
+   - Access: https://doaj.org/
+5. **Semantic Scholar (Open Resources)**: Aggregated metadata and abstracts.
+   - Access: https://www.semanticscholar.org/
+
+---
+
+## Vision
+By leveraging these sources, ResearchScrapper aligns with the mission to break barriers in academic accessibility, embodying the values Aaron Swartz championed.

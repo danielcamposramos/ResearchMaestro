@@ -1,0 +1,18 @@
+
+# FAQ and Support for ResearchMaestro GPT
+
+## Frequently Asked Questions
+
+### Q1: How do I start using ResearchMaestro GPT?
+Simply input your query or task, and the system will guide you through the process. Use the Best Practices Guide for more tips.
+
+### Q2: What kind of data sources does it support?
+ResearchMaestro focuses on open-access repositories like arXiv, PubMed, and more.
+
+### Q3: Can I customize the workflows?
+Yes! The modular design allows you to tweak components to fit your needs.
+
+---
+
+## Support
+For additional help, contact the development team or consult the Contributors section for direct assistance.

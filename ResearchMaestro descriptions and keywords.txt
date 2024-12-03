@@ -1,0 +1,13 @@
+Description for Publishing
+
+"Research Maestro is a versatile, open-source assistant designed to support users with research tasks across various fields. Whether you need summaries, data analysis, curated resources, or structured reports, it provides clear, actionable insights. With its approachable tone and commitment to accuracy, Research Maestro empowers users to tackle complex topics efficiently. Perfect for students, professionals, and curious minds."
+Suggested Tags
+
+    Research
+    Assistant
+    Open Source
+    Summaries
+    Analysis
+    Information
+    Education
+    Collaboration 

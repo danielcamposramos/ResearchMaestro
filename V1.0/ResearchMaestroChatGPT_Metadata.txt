@@ -1,0 +1,2 @@
+Package: /mnt/data/ResearchMaestroChatGPT.pyz
+SHA-256: 0a9264c12abc09020a549999b0282666eabf83f41fbeee8f7b14350f2e3d6980

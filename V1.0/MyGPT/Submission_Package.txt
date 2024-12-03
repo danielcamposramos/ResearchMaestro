@@ -1,0 +1,17 @@
+
+# Submission Package: ResearchMaestro GPT
+
+## Metadata
+- **Name**: ResearchMaestro GPT
+- **Category**: Research Assistant
+- **License**: GPL
+- **Version**: 1.0
+- **Author**: Daniel Ramos and ChatGPT
+
+## Files
+- Store Description: Store_Description.txt
+- Best Practices Guide: Best_Practices_Guide.txt
+- FAQ and Support: FAQ_Support.txt
+- System Package: ResearchMaestroChatGPT.pyz
+- Metadata: ResearchMaestroChatGPT_Metadata.txt
+- Contributors: CONTRIBUTORS.txt
